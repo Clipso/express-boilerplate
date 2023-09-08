@@ -13,7 +13,7 @@ cd "$directory_name"
 npm init -y
 
 # Install Express.js as a dependency
-npm install express nodemon dotenv express-validator @prisma/client date-fns @ounch/logger
+npm install express nodemon dotenv express-validator @prisma/client date-fns
 
 # Create the directories and files
 mkdir controllers routes
